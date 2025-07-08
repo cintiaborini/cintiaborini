@@ -1,8 +1,35 @@
-## Hey! ✨
+## ✨ Cintia Borini ✨
 
-- 📘 English teacher ︱ Game dev student
-- 😄 Pronouns: she / her
+Sou professora de inglês há quase 10 anos, e hoje estou em transição de carreira, estudando Desenvolvimento de Jogos Digitais. Eu amo jogar desde que era criança, e sonho em poder fazer parte desse mundo da criação de jogos.
+<br/>
+<br/>
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<br/>
+<br/>
   <div> 
   <a href="https://instagram.com/cintiaborini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lux_cih" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -10,3 +37,14 @@
   <a href="https://www.linkedin.com/in/cintiaborini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<br/>
+<br/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=cintiaborini&show_icons=true&theme=tokyonight&includeallcommits=true&locale=pt-br" 
+  />
+  </p>
