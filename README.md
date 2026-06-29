@@ -1,6 +1,6 @@
 ## ✨ Cintia Borini ✨
 
-Sou professora de inglês há 10 anos, e hoje estou em transição de carreira, formada em Desenvolvimento de Jogos Digitais. Hoje faço pós-graduação em Desenvolvimento Full Stack na FIAP.
+Sou professora de inglês há 10 anos, em transição de carreira, formada em Desenvolvimento de Jogos Digitais. Hoje faço pós-graduação em Desenvolvimento Full Stack na FIAP.
 <br/>
 <br/>
 
